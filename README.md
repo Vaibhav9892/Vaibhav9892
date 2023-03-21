@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav9892
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Asp Dot Net Core Framework
+- 🌱 I’m currently 4g/5g network and LTE architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
